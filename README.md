@@ -1,11 +1,10 @@
 # 🚀 Careerlyst - AI-Powered Career Development Platform
 
 <div align="center">
-  <img src="/logo.png" alt="Careerlyst Logo" width="200" height="60">
-  
+  <img src="https://github.com/user-attachments/assets/609b93b9-d393-4449-8f37-9ddc36a1f83c" alt="Careerlyst Logo" width="200" height="60">
+
   [![Next.js](https://img.shields.io/badge/Next.js-15.1.4-black)](https://nextjs.org/)
   [![React](https://img.shields.io/badge/React-19.0.0-blue)](https://reactjs.org/)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue)](https://www.typescriptlang.org/)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.1-38B2AC)](https://tailwindcss.com/)
   [![Prisma](https://img.shields.io/badge/Prisma-6.2.1-2D3748)](https://prisma.io/)
   [![Clerk](https://img.shields.io/badge/Clerk-Auth-purple)](https://clerk.com/)
